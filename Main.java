@@ -20,7 +20,9 @@ public class Main {
         kamaz.printType();
         howo.printType();
         ford.printType();
-        isuzu.printType();
+
+
+
         //kiaBus.printType();
        // intercityBus.printType();
         //touristBus.printType();
